@@ -15,8 +15,6 @@
 
 - 😄 Pronouns **She/Her**
 
-- ⚡ Fun fact **One thing on my bucket list is assisting the elderly at the old folks’ home, working with delinquent kids, being a mentor to the downtrodden kids and the kids at the orphanages, helping out at animal shelters.**
-
 <h2>Connect with me<img align="center" src="https://github.com/VarunV991/VarunV991/blob/master/Assets/Handshake.gif" height="33px" /></h2> 
 
 <a href="mailto:ayushibansal.22.01.2003@gmail.com">
