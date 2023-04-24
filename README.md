@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushi2003&label=Profile%20views&color=0e75b6&style=flat" alt="ayushi2003" /> </p>
 
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **Python, C++, OOPs, Web Development, Data Structures & ALgorithms**
+- 💬 Ask me about **Python, C++, OOPs, Web Development, Data Structures & ALgorithms, ReactJs, NodeJS**
 
 - 📫 How to reach me **ayushibansal.22.01.2003@gmail.com**
 
